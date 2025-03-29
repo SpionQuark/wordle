@@ -34,7 +34,7 @@ The app uses AES-Encryption to safe your data with a password you can set so onl
 
 1. Klonen Sie das Repository:
    ```bash
-   git clone https://github.com/spionquark/wordle.git
+   git clone https://github.com/username/wordle.git
    cd wordle
 2. Install dependencies
     ```bash
@@ -67,12 +67,54 @@ The app uses AES-Encryption to safe your data with a password you can set so onl
 ```
 wordle/
 ├── app/
-│   ├── [index.html](http://_vscodecontentref_/2)          # Haupt-HTML-Datei
-│   ├── [script.js](http://_vscodecontentref_/3)           # Haupt-JavaScript-Datei
-│   ├── [styles.css](http://_vscodecontentref_/4)          # Haupt-CSS-Datei
+│   ├── [index.html](http://_vscodecontentref_/2)          # Main-HTML-File
+│   ├── [script.js](http://_vscodecontentref_/3)           # Main-JavaScript-File
+│   ├── [styles.css](http://_vscodecontentref_/4)          # Main-CSS-File
 │   └── info/
-│       └── [index.html](http://_vscodecontentref_/5)      # Info-Seite
-├── forge.config.js         # Electron Forge Konfiguration
-├── [main.js](http://_vscodecontentref_/6)                 # Electron Hauptprozess
-├── [package.json](http://_vscodecontentref_/7)            # Projektkonfiguration und Abhängigkeiten
+│       └── [index.html](http://_vscodecontentref_/5)      # Information-site
+├── forge.config.js                                        # Electron Forge Configuration
+├── [main.js](http://_vscodecontentref_/6)                 # Electron main-process
+├── [package.json](http://_vscodecontentref_/7)            # Project-configuration
 ```
+
+## Development
+
+### Scripts
+
+```npm start```: Starts the application in development mode.
+```npm run make```: Creates an executable.
+```npm run package```: Verpackt die Anwendung ohne Installer.
+```npm run build```: Creates a build for the application.
+
+### Technologies
+
+- Electron: For crossplatform development and usage.
+- CryptoJS: For AES-encryption
+- HTML/CSS/JavaScript: For better interface.
+
+### Security
+
+- Local saving: All data is being saved locally and wont be transmitted to any exernal server.
+- AES-encryption: Strong encryption can save your Data from unauthorized access.
+
+## License
+
+### Hobbyist License
+### Copyright (C) 2025 SpionQuark
+
+* DE (Deutsch):
+
+1. Diese Software darf ausschließlich für private, nicht-kommerzielle Zwecke genutzt werden.
+
+2. Es ist nicht gestattet, die Software zu verändern, weiterzugeben oder zu veröffentlichen.
+
+3. Jegliche kommerzielle Nutzung, einschließlich Verkauf, Vermietung oder Integration in kommerzielle Produkte, ist ausdrücklich untersagt.
+
+
+* EN (English):
+
+1. This software is for private, non-commercial use only.
+
+2. It is strictly prohibited to modify, distribute, or publish the software.
+
+3. Any commercial use, including selling, renting, or integrating it into commercial products, is explicitly prohibited.
