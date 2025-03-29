@@ -34,7 +34,7 @@ The app uses AES-Encryption to safe your data with a password you can set so onl
 
 1. Klonen Sie das Repository:
    ```bash
-   git clone https://github.com/username/wordle.git
+   git clone https://github.com/spionquark/wordle.git
    cd wordle
 2. Install dependencies
     ```bash
