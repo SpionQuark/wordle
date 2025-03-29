@@ -118,3 +118,17 @@ wordle/
 2. It is strictly prohibited to modify, distribute, or publish the software.
 
 3. Any commercial use, including selling, renting, or integrating it into commercial products, is explicitly prohibited.
+
+## Author
+
+    Made by ***SpionQuark***
+
+    Feedback and Suggestions are welcome!
+
+## Issue and bug report or new Ideas?
+
+    If you have any kind of problem or a good idea open a new [Issue](https://github.com/SpionQuark/wordle/issues)
+
+## See for yourself
+
+<img alt="Wordle Vorschau" src="https://via.placeholder.com/800x400?text=Wordle+App+Screenshot">
