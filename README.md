@@ -121,13 +121,13 @@ wordle/
 
 ## Author
 
-    Made by ***SpionQuark***
+Made by ***SpionQuark***
 
-    Feedback and Suggestions are welcome!
+Feedback and Suggestions are welcome!
 
 ## Issue and bug report or new Ideas?
 
-    If you have any kind of problem or a good idea open a new [Issue](https://github.com/SpionQuark/wordle/issues)
+If you have any kind of problem or a good idea open a new [Issue](https://github.com/SpionQuark/wordle/issues)
 
 ## See for yourself
 
