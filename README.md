@@ -3,6 +3,8 @@
 Wordle is an easy and userfriendly desktop-application giving you the opportunity to save important information more secure. 
 The app uses AES-Encryption to safe your data with a password you can set so only you can acces the file.
 
+Quick install with our new installer or at [release](https://github.com/SpionQuark/wordle/releases/wordle_publish)
+
 ## Features
 
 - **Secure saving**: Safe your data locally or in the cloud with our special `.wordle`-files.
