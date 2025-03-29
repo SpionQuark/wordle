@@ -1,6 +1,5 @@
 # Wordle - Stay Safe!
 
-
 Wordle is an easy and userfriendly desktop-application giving you the opportunity to save important information more secure. 
 The app uses AES-Encryption to safe your data with a password you can set so only you can acces the file.
 
@@ -53,16 +52,16 @@ The app uses AES-Encryption to safe your data with a password you can set so onl
 ### Mainfunction
 
 1. New files:
-    ° click on ``` File > New```
-    ° Now you can start writing
+    + click on ``` File > New```
+    + Now you can start writing
 2. Save file
-    ° click on ```File > Save```
-    ° Select the path to your file and enter the password used for the encryption
+    + click on ```File > Save```
+    + Select the path to your file and enter the password used for the encryption
 3. Open file
-    ° click on ```File > Open```
-    ° Choose a ``` .wordle```-File and enter your password
+    + click on ```File > Open```
+    + Choose a ``` .wordle```-File and enter your password
 4. Password-dialogue
-    ° We have a special dialogue just for you to enter a password. 
+    + We have a special dialogue just for you to enter a password. 
 
 ## Structure
 ```
